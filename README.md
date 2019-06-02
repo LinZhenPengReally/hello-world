@@ -7,4 +7,4 @@ the message from my windows to remote change!:wq
 
 R U OK?
 
-Createing a new branch is quick AND simple.
+Createing a new branch is quick && simple.
