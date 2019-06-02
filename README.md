@@ -3,5 +3,5 @@
 
 LZP is me, I made a chaneg for test.
 
-the message from my windows to remote change!
-the second change!
+the message from my windows to remote change!:wq
+
